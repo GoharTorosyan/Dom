@@ -1,0 +1,39 @@
+*{
+    margin:0px;
+}
+
+body{
+    margin:40px
+}
+
+.some-div{
+    display: flex;
+    justify-content: start;
+    align-items:center;
+}
+
+.btn{
+    width:150px;
+    height: 50px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid ;
+    font-size: 20px;
+    transition-duration: 0.8s;
+}
+
+.btn:hover {
+    background-color: darkslateblue ;
+    cursor: pointer;
+}
+
+.timeBox{
+    width:110px;
+    height: 30px;
+    padding: 10px;
+    margin-left:20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 15px;
+    text-align: center;
+}
