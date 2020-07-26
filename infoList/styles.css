@@ -1,0 +1,17 @@
+body{
+    margin:30px
+}
+
+ul{
+    width:300px;
+}
+
+li{
+    padding:5px;
+    width:300px;
+}
+
+.list-item:hover{
+    font-size:17px;
+    background-color: lavender;
+}
