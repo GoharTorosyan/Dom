@@ -1,0 +1,53 @@
+.request{
+    margin:0px auto;
+    width:80%;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.request-title{
+    text-align: left;
+    font-size: 25px;
+}
+.button-to-main{
+    width:100px;
+    height:40px;
+    border:solid 1px #e5ddd5;
+    margin-top:20px;
+}
+.info-form{
+    width:100%;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+}
+.about-name{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.about-name input{
+    border:solid 1px #e5ddd5;
+    padding:8px 25px 8px 10px;
+    width:34%
+}
+
+.about-contacts{
+    display:flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin-bottom: 30px;
+
+}
+.about-contacts input{
+    border:solid 1px #e5ddd5;
+    padding:10px 25px 8px 10px;
+    width:48%
+}
+
+textarea{
+    border:solid 1px #e5ddd5;
+}
