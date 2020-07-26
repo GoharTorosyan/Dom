@@ -1,0 +1,11 @@
+body{
+    margin:30px
+}
+
+.some-input {
+    width:170px;
+    height: 35px;
+    padding: 5px;
+    font-size: 15px;
+    border: 1px solid;
+}
