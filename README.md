@@ -8,7 +8,7 @@
 * infoList
 * imageSlider
 * colorChanging
-* tableSort
+
 
 > Each folder also contains index.html
 > styles.css and index.js files. 
